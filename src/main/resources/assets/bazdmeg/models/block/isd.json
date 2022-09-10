@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bazdmeg:blocks/letoltes",
+    "up": "bazdmeg:blocks/letoltes",
+    "north": "bazdmeg:blocks/letoltes",
+    "east": "bazdmeg:blocks/letoltes",
+    "south": "bazdmeg:blocks/letoltes",
+    "west": "bazdmeg:blocks/letoltes",
+    "particle": "bazdmeg:blocks/letoltes"
+  }
+}
